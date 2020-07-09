@@ -1,2 +1,2 @@
 # denoising_images
-Denoising (noisy) images using convolutional autoencoders in PyTorch
+Denoising (noisy) MNIST images using convolutional autoencoders in PyTorch
